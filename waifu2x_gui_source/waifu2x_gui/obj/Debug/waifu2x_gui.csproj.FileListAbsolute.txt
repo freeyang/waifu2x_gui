@@ -1,0 +1,9 @@
+C:\VB\waifu2x_gui\waifu2x_gui\bin\Debug\waifu2x_gui.exe.config
+C:\VB\waifu2x_gui\waifu2x_gui\bin\Debug\waifu2x_gui.exe
+C:\VB\waifu2x_gui\waifu2x_gui\bin\Debug\waifu2x_gui.pdb
+C:\VB\waifu2x_gui\waifu2x_gui\obj\Debug\waifu2x_gui.csprojResolveAssemblyReference.cache
+C:\VB\waifu2x_gui\waifu2x_gui\obj\Debug\waifu2x_gui.Form1.resources
+C:\VB\waifu2x_gui\waifu2x_gui\obj\Debug\waifu2x_gui.Properties.Resources.resources
+C:\VB\waifu2x_gui\waifu2x_gui\obj\Debug\waifu2x_gui.csproj.GenerateResource.Cache
+C:\VB\waifu2x_gui\waifu2x_gui\obj\Debug\waifu2x_gui.exe
+C:\VB\waifu2x_gui\waifu2x_gui\obj\Debug\waifu2x_gui.pdb
